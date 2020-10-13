@@ -1,0 +1,1 @@
+alias bra='git branch -vv'

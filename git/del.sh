@@ -1,0 +1,1 @@
+alias del='git branch -D'

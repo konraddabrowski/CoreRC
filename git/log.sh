@@ -1,0 +1,1 @@
+alias log='git log --graph --oneline --all'

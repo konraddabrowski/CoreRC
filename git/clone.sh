@@ -1,0 +1,1 @@
+alias clone="git clone $1 $2 --recurse-submodules"

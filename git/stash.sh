@@ -1,0 +1,1 @@
+alias stash='gitt stash'

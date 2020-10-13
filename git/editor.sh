@@ -1,0 +1,1 @@
+alias editor='git config --global user.editor $1'

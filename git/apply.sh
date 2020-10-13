@@ -1,0 +1,1 @@
+alias apply='git stash apply'

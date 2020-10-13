@@ -1,0 +1,1 @@
+alias name='git config --global user.name $1'

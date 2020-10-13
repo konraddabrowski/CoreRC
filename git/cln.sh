@@ -1,0 +1,1 @@
+alias cln='git checkout .; git clean -df'

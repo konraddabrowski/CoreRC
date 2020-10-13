@@ -1,0 +1,1 @@
+alias ass='git update-index --assume-unchanged'
